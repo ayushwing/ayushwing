@@ -1,19 +1,8 @@
 ### Hi there 👋
-### नमस्ते 🙏 || नमस्कारः || வணக்கம்!
-### నమస్కారం || ನಮಸ್ಕಾರ || নমস্কাৰ   
-### Hola || Bonjour || Salve
-### Olá || Zdravstvuyte || Marhaba
-
-switch(lang){
-  case HINDI: 
-   print('नमस्ते 🙏');
-  
-  case SANSKRIT:
-   print('नमस्कारः');
-}
-
-
-
+### नमस्ते 🙏 , नमस्कारः , வணக்கம்!
+### నమస్కారం , ನಮಸ್ಕಾರ , নমস্কাৰ   
+### Hola , Bonjour , Salve
+### Olá , Zdravstvuyte , Marhaba
 <!--
 **ayushwing/ayushwing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
